@@ -97,19 +97,6 @@ th {
   }
 }
 
-/* media queries */
-@media (max-width: 600px) {
-  /* body {
-    font-size: 0.8em;
-  }
-  table {
-    font-size: 0.8em;
-  }
-  .stats {
-    font-size: 0.8em;
-  } */
-}
-
 @media (max-width: 600px) {
   table {
     width: 100%;
